@@ -45,7 +45,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Aswin ser](<img src="https://i.imgur.com/PknpH41.jpeg">
+  [![Aswin ser](<img src="https://i.imgur.com/NfIk4Qh.jpeg">
  https://github.com/Dhamu |  
 ----|
 [Its_me_Dhamu](https://github.com/Dhamu)  |
