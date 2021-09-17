@@ -3,7 +3,7 @@
 ## Its_me_Amal 
 
 <div align="center">
-  <img src=https://www.linkpicture.com/q/IMG-20210819-WA1189.jpg>
+  <img src="https://i.imgur.com/PknpH41.jpeg"
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
